@@ -5,7 +5,7 @@ namespace Methods_Lib
     public class Methods
     {   
             
-            // 2 / 4 DONE
+            // 4 / 4 DONE
             // DONE
         // implement this method so it returns a tuple (weeks, days) 
         // corresponding to a given number of days
